@@ -1,7 +1,7 @@
 <!-- icons: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
 <h1 align="center">
-    👋 Hey, I'm Sergi!
+    👋 Hey, I'm Ariono Septian!
 </h1>
 
 <p align="center">
